@@ -1,4 +1,16 @@
-<h1 align="center">Olá, eu sou o Aldair Avelino</h1>
+<h1 align="center">Hi there, I am Aldair Avelino</h1>
+
+<div>
+  <p>
+    I am so Enthusiastic about Web Development 💻, IoT Development 🤖 and also for Mobile Development technologies 📱.
+  </p>
+  <p>
+    This is my GitHub profile 📝, and here I share all my personal works that are done 💯% or those that are almost done 😅💯.
+    If you want collaborate one of this works feel free to do that 🎉🆓!
+  </p>
+  
+</div>
+
 <div align="center">
   <a href="https://facebook.com/aldair.avelino.587">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AldairAvelino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
