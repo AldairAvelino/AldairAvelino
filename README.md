@@ -1,4 +1,4 @@
-# Olá, eu sou o Aldair Avelino
+<h1 align="center">Olá, eu sou o Aldair Avelino</h1>
 <div align="center">
   <a href="https://facebook.com/aldair.avelino.587">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AldairAvelino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
