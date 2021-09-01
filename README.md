@@ -45,4 +45,13 @@
   
   ![Snake animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-snake.svg)
   
+  <p align="center"> 
+
+  <h2>Total de Visitas no meu Perfil 🔍</h2>
+  <p align="center"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/AldairAvelino/count.svg" />
+  </p>
+
+  </p>
+  
 </div>
