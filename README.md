@@ -10,21 +10,21 @@
     This is my GitHub profile 📝, and here I share all my personal works that are done 💯% or those that are almost done 😅💯.
     If you want collaborate one of this works feel free to do that 🎉🆓!
   </p>
-
-## 💻 &nbsp;Tech Stack
-<div style="display: inline_block" align="center"><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max-width:100%;"></img>
-</div>
+  
+  <h1>💻 &nbsp;Tech Stack</h1>
+  <div style="display: inline_block" align="center"><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max-width:100%;"></img>
+  </div>
 
 </div>
 
