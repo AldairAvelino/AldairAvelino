@@ -12,15 +12,6 @@
   </p>
 
 ## 💻 &nbsp;Tech Stack
-
-</div>
-
-<div align="center">
-  <a href="https://facebook.com/aldair.avelino.587">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AldairAvelino&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairAvelino&layout=compact&langs_count=7&theme=nord"/>
-</div>
-  
 <div style="display: inline_block" align="center"><br>
   <a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
@@ -37,6 +28,14 @@
   </a>
 </div>
 
+</div>
+
+<div align="center">
+  <a href="https://facebook.com/aldair.avelino.587">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AldairAvelino&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairAvelino&layout=compact&langs_count=7&theme=nord"/>
+</div>
+  
   ##
  
 <div align="center"> 
