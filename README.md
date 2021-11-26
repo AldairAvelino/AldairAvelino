@@ -10,8 +10,9 @@
     This is my GitHub profile 📝, and here I share all my personal works that are done 💯% or those that are almost done 😅💯.
     If you want collaborate one of this works feel free to do that 🎉🆓!
   </p>
-  ## 🛠 &nbsp;Tech Stack
-  
+
+## 💻 &nbsp;Tech Stack
+
 </div>
 
 <div align="center">
