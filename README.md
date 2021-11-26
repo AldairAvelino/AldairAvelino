@@ -23,6 +23,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="32" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="32" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="40" style="max-width:100%;"></img>
 
 </div>
 
