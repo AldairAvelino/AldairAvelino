@@ -27,9 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="25" height="30" style="max-width:100%;"></img>
   
   <h3>💻 backend Stacks</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="32" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="25" height="30" style="max-width:100%;"></img>
 
   <h3>💻 DB Stacks</h3>
 
