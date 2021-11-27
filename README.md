@@ -17,13 +17,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="26" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="26" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="26" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="32" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="26" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="26" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="26" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="26" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="26" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="26" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="26" height="40" style="max-width:100%;"></img>
 
   <h3>💻 backend Stacks</h3>
   <h3>💻 DB Stacks</h3>
