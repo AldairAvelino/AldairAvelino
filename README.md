@@ -1,6 +1,6 @@
 <img align="right" height="480em" src="img/Developer-Activity.gif"/>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=AldairAvelino&color=yellow" alt="Profile views" /></p>
 <h1 align="center">Hi there 👌, I am Aldair Avelino</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AldairAvelino&color=yellow" alt="Profile views" /></p>
 
 <div>
   <p>
