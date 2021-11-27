@@ -12,8 +12,8 @@
   </p>
   
   <h3>💻 Frontend Stacks</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="24" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="26" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="40" style="max-width:100%;"></img>
 
   <h3>💻 backend Stacks</h3>
