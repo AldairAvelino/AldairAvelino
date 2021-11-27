@@ -11,7 +11,7 @@
     If you want collaborate one of this works feel free to do that 🎉🆓!
   </p>
   
-  <h1>💻 Tech Stack</h1>
+  <h2>💻 Tech Stack</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="40" style="max-width:100%;"></img>
@@ -23,6 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="40" style="max-width:100%;"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="32" height="40" style="max-width:100%;"></img>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="40" style="max-width:100%;"></img>
