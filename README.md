@@ -19,6 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="32" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="32" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="32" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="32" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="32" height="40" style="max-width:100%;"></img>
 
