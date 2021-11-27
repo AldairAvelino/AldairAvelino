@@ -34,6 +34,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="30" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="30" style="max-width:100%;"></img>
 
+  <h3>💻 Other Stacks</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsCode" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry PI" width="25" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="25" height="30" style="max-width:100%;"></img>
 
     
 
