@@ -11,7 +11,10 @@
     If you want collaborate one of this works feel free to do that 🎉🆓!
   </p>
   
-  <h2>💻 Tech Stack</h2>
+  <h2>💻 Web Stacks</h2>
+  <h2>💻 Mobile Stacks</h2>
+  <h2>💻 DB Stacks</h2>
+
     
 
 </div>
