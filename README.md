@@ -48,8 +48,8 @@
  
 <div align="center">
 
-  [go](http://stackoverflow.com){:target="_blank"}?
-  
+  [go](http://stackoverflow.com){:target="_blank"}
+
   <a href="https://www.facebook.com/aldair.avelino.587" target="blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aldair_avelino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:aldair03avelino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
