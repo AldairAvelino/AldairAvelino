@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="25" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="25" height="40" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="25" height="40" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="25" height="40" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="25" height="30" style="max-width:100%;"></img>
   <h3>💻 backend Stacks</h3>
   <h3>💻 DB Stacks</h3>
 
