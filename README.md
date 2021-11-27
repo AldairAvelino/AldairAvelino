@@ -1,6 +1,6 @@
 <img align="right" height="480em" src="img/Developer-Activity.gif"/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AldairAvelino&color=yellow" alt="Profile views" /></p>
 <h1 align="center">Hi there 👌, I am Aldair Avelino</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AldairAvelino&color=yellow" alt="Profile views" /> </p>
 
 <div>
   <p>
@@ -43,9 +43,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="27" height="30" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry PI" width="27" height="30" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="27" height="30" style="max-width:100%;"></img>
-
-    
-
+  <br>
+  <br>
 </div>
 
 <div align="center">
@@ -62,14 +61,5 @@
   <a href="https://www.linkedin.com/in/aldair-fernando-antónio-avelino-a0bb641ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   ![Snake animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-snake.svg)
-  
-  <p align="center"> 
-
-  <h2>Total de Visitas no meu Perfil 🔍</h2>
-  <p align="center"> 
-  <img alingn="center" src="https://profile-counter.glitch.me/AldairAvelino/count.svg" />
-  </p>
-
-  </p>
   
 </div>
