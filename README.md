@@ -53,7 +53,7 @@
 
   <a href = "mailto:aldair03avelino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <a href="https://www.linkedin.com/in/aldair-fernando-antónio-avelino-a0bb641ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aldair-fernando-antónio-avelino-a0bb641ab/"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-snake.svg)
   
