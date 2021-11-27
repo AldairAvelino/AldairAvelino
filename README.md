@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="27" height="30" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="27" height="30" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry PI" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="27" height="30" style="max-width:100%;"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="27" height="30" style="max-width:100%;"></img>
 
     
 
