@@ -11,8 +11,8 @@
     If you want collaborate one of this works feel free to do that 🎉🆓!
   </p>
   
-  <h2>💻 Frontend Stacks</h2>
-  <h2>💻 backend Stacks</h2>
+  <h4>💻 Frontend Stacks</h4>
+  <h3>💻 backend Stacks</h3>
   <h2>💻 DB Stacks</h2>
 
     
