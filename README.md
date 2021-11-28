@@ -7,8 +7,8 @@
     I am so Enthusiastic about Web Development 💻, IoT Development 🤖 and also for Mobile Development technologies 📱.
   </p>
   <p>
-    This is my GitHub profile 📝, and here I share all my personal works that are done 💯% or those that are almost done 😅💯.
-    If you want collaborate one of this works feel free to do that 🎉🆓!
+    This is my GitHub profile 📝, and here I am going to share all my personal works that are done 💯% or those that are almost done 😅💯.
+    If you want collaborate in one of this works feel free to do that 🎉🆓!
   </p>
   
   <h3>💻 Frontend Stacks</h3>
