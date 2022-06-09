@@ -1,4 +1,4 @@
-<img align="right" height="480em" src="img/reserva-img/Developer activity-one.gif"/>
+<img align="right" height="480em" src="img/reserva-img/Programming.gif"/>
 <h1 align="center">Hi there 👌, I am Aldair Avelino</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AldairAvelino&color=yellow" alt="Profile views" /></p>
 
