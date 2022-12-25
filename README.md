@@ -35,7 +35,7 @@
 ![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-adobeXd-0D1117?style=for-the-badge&logo=adobeXd&labelColor=0D1117)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Total de Visitas ao Perfil</b></p>  
