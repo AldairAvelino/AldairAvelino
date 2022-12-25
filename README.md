@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=041f31&height=180&section=header&text=Programador+FullStack&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+My+Name+is+Aldair+Avelino;And+I+am+19+years+old;I+am+from+Angola;I+am+also,+a+Technician+in+Electronics+and+Telecommunications;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+My+Name+is+Aldair+Avelino;And+I+am+19+years+old;I+am+from+Angola;I+am+Also,+a+Technician+in+Electronics+and+Telecommunications;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AldairAvelino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Aldair Avelino" /> 
