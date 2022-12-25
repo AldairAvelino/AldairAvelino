@@ -7,20 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairAvelino&layout=compact&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=AldairAvelino&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AldairAvelino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.facebook.com/aldair.avelino.587" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234C68D7?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/aldair_avelino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A3AB9?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:aldair03avelino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aldair-fernando-antónio-avelino-a0bb641ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-
 ### Tecnologias para Front-end:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -49,7 +35,15 @@
 <div align="center">
 <br><p align="centre"><b>Total de Visitas ao Perfil</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AldairAvelino}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
+
+<div align="center">  
+<a href="https://www.facebook.com/aldair.avelino.587" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234C68D7?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/aldair_avelino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A3AB9?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:aldair03avelino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aldair-fernando-antónio-avelino-a0bb641ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
  
 <div align="center">
   
