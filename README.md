@@ -28,7 +28,7 @@
 
 ### Ferramentas que uso:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidStudio&labelColor=0D1117)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
 ![Expo](https://img.shields.io/badge/-expo-0D1117?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
