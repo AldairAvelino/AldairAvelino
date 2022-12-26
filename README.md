@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=041f31&height=180&section=header&text=Programador+FullStack&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=041f31&height=180&section=header&text=FullStack+Programmer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+My+Name+is+Aldair+Avelino;And+I+am+19+years+old;I+am+from+Angola;A+Technician+in+Electronics+and+Telecommunications;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
