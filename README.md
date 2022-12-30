@@ -29,6 +29,8 @@
 ### Tools that I use:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-0D1117?style=for-the-badge&logo=arduino&labelColor=0D1117)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidStudio&labelColor=0D1117)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
 ![Expo](https://img.shields.io/badge/-expo-0D1117?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
