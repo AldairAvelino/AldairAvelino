@@ -54,7 +54,7 @@
  
 <div align="center">
   
-  ![Snake animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-snake.svg)
+  ![Rat animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-rat.svg)
   
 </div>
 
