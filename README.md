@@ -53,8 +53,8 @@
 </div>
  
 <div align="center">
-  
-  ![Rat animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-rat.svg)
+
+  ![Snake animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
