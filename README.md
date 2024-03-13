@@ -24,7 +24,7 @@ const fullstackDeveloper = {
     },
     architecture: ["Microservices", "Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
     currentFocus: "Bridging the gap between back-end and front-end development for seamless fullstack solutions",
-    funFact: "Debugging is like being the detective in a crime movie where you are also the murderer, caught between the backend and frontend"
+    funFact: "Debugging is playing detective and culprit, caught between backend and frontend"
 };
 ```
 
