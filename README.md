@@ -7,6 +7,27 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairAvelino&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
+```javascript
+const fullstackDeveloper = {
+    name: "Aldair Avelino",
+    pronouns: "He" | "Him",
+    experienceYears: 5,
+    askMeAbout: ["tech", "web development", "app development", "server development", "API"],
+    code: ["Javascript", "Python", "PHP"],
+    technologies: {
+        frontEnd: ["HTML5", "CSS3", "React", "Angular"],
+        backEnd: ["Node.js", "Express.js", "Fastify", "Spring Boot"],
+        mobileApp: ["flutter", "React Native"],
+        devOps: ["AWS", "Docker", "Kubernetes", "Nginx", "Jenkins"],
+        databases: ["MySQL", "MongoDB", "SQLite", "PostgreSQL"],
+        misc: ["Firebase", "Socket.IO", "OpenCV", "GraphQL", "RESTful APIs", "Webpack"]
+    },
+    architecture: ["Microservices", "Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: "Bridging the gap between back-end and front-end development for seamless fullstack solutions",
+    funFact: "Debugging is like being the detective in a crime movie where you are also the murderer, caught between the backend and frontend"
+};
+```
+
 ### My Stacks and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
