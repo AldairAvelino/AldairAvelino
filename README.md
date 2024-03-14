@@ -34,7 +34,6 @@ const fullstackDeveloper = {
 };
 ```
 
-### Unlock My Arsenal:
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-2088FF?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-%238511FA?style=flat-square&logo=bootstrap&logoColor=white)
