@@ -8,10 +8,10 @@
 ```javascript
 const fullstackDeveloper = {
     askMeAbout: ["tech", "web", "mobile", "server", "API", "development"],
-    code: ["JavaScript", "Python", "PHP", "C/C++", "Dart", "SQL"],
+    code: ["Java", "JavaScript", "Python", "PHP", "C/C++", "Dart", "SQL"],
      tools: {
         design: ["Figma"],
-        development: ["Visual Studio Code", "PyCharm", "Arduino IDE", "Android Studio"],
+        development: ["Visual Studio Code", "IntelliJ IDEA", "PyCharm", "Arduino IDE", "Android Studio"],
         api: ["Swagger", "Postman", "Insomnia", "Hoppscotch", "Apidog"]
     },
     architecture: ["Microservices", "Serverless", "PWA", "SPA", "REST", "GraphQL", "CMS"],
